@@ -10,7 +10,11 @@
         FrmSalesItemMaster.Show()
         FrmSalesItemMaster.Activate()
     End Sub
+<<<<<<< HEAD
     '2025
+=======
+
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
     Private Sub TaskMasterToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles TaskMasterToolStripMenuItem.Click
         FrmTaskTypeMaster.MdiParent = Me
         FrmTaskTypeMaster.Show()

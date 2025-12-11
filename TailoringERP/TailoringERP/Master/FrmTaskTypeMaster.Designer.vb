@@ -51,6 +51,7 @@ Partial Class FrmTaskTypeMaster
         Me.gcData.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+<<<<<<< HEAD
         Me.gcData.EmbeddedNavigator.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.gcData.Location = New System.Drawing.Point(11, 228)
         Me.gcData.LookAndFeel.SkinName = "Office 2010 Blue"
@@ -60,6 +61,15 @@ Partial Class FrmTaskTypeMaster
         Me.gcData.Name = "gcData"
         Me.gcData.Size = New System.Drawing.Size(1201, 383)
         Me.gcData.TabIndex = 9
+=======
+        Me.gcData.Location = New System.Drawing.Point(8, 185)
+        Me.gcData.LookAndFeel.SkinName = "Office 2010 Blue"
+        Me.gcData.LookAndFeel.UseDefaultLookAndFeel = False
+        Me.gcData.MainView = Me.gvData
+        Me.gcData.Name = "gcData"
+        Me.gcData.Size = New System.Drawing.Size(901, 311)
+        Me.gcData.TabIndex = 268
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
         Me.gcData.ViewCollection.AddRange(New DevExpress.XtraGrid.Views.Base.BaseView() {Me.gvData})
         '
         'gvData
@@ -85,11 +95,18 @@ Partial Class FrmTaskTypeMaster
         Me.btnExit.BackColor = System.Drawing.SystemColors.Control
         Me.btnExit.DialogResult = System.Windows.Forms.DialogResult.Cancel
         Me.btnExit.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+<<<<<<< HEAD
         Me.btnExit.Location = New System.Drawing.Point(480, 625)
         Me.btnExit.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(88, 36)
         Me.btnExit.TabIndex = 5
+=======
+        Me.btnExit.Location = New System.Drawing.Point(360, 508)
+        Me.btnExit.Name = "btnExit"
+        Me.btnExit.Size = New System.Drawing.Size(66, 29)
+        Me.btnExit.TabIndex = 274
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
         Me.btnExit.Text = "Cl&ose"
         Me.btnExit.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.btnExit.UseVisualStyleBackColor = False
@@ -100,11 +117,18 @@ Partial Class FrmTaskTypeMaster
         Me.btnCancel.BackColor = System.Drawing.SystemColors.Control
         Me.btnCancel.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnCancel.ForeColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
+<<<<<<< HEAD
         Me.btnCancel.Location = New System.Drawing.Point(379, 625)
         Me.btnCancel.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnCancel.Name = "btnCancel"
         Me.btnCancel.Size = New System.Drawing.Size(99, 36)
         Me.btnCancel.TabIndex = 4
+=======
+        Me.btnCancel.Location = New System.Drawing.Point(284, 508)
+        Me.btnCancel.Name = "btnCancel"
+        Me.btnCancel.Size = New System.Drawing.Size(74, 29)
+        Me.btnCancel.TabIndex = 273
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
         Me.btnCancel.Text = "&Cancel"
         Me.btnCancel.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.btnCancel.UseVisualStyleBackColor = False
@@ -115,11 +139,18 @@ Partial Class FrmTaskTypeMaster
         Me.btnDelete.BackColor = System.Drawing.SystemColors.Control
         Me.btnDelete.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnDelete.ForeColor = System.Drawing.Color.Red
+<<<<<<< HEAD
         Me.btnDelete.Location = New System.Drawing.Point(280, 625)
         Me.btnDelete.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnDelete.Name = "btnDelete"
         Me.btnDelete.Size = New System.Drawing.Size(96, 36)
         Me.btnDelete.TabIndex = 3
+=======
+        Me.btnDelete.Location = New System.Drawing.Point(210, 508)
+        Me.btnDelete.Name = "btnDelete"
+        Me.btnDelete.Size = New System.Drawing.Size(72, 29)
+        Me.btnDelete.TabIndex = 272
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
         Me.btnDelete.Text = "&Delete"
         Me.btnDelete.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.btnDelete.UseVisualStyleBackColor = False
@@ -130,11 +161,18 @@ Partial Class FrmTaskTypeMaster
         Me.btnSave.BackColor = System.Drawing.SystemColors.Control
         Me.btnSave.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnSave.ForeColor = System.Drawing.Color.DarkGreen
+<<<<<<< HEAD
         Me.btnSave.Location = New System.Drawing.Point(192, 625)
         Me.btnSave.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnSave.Name = "btnSave"
         Me.btnSave.Size = New System.Drawing.Size(85, 36)
         Me.btnSave.TabIndex = 2
+=======
+        Me.btnSave.Location = New System.Drawing.Point(144, 508)
+        Me.btnSave.Name = "btnSave"
+        Me.btnSave.Size = New System.Drawing.Size(64, 29)
+        Me.btnSave.TabIndex = 271
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
         Me.btnSave.Text = "&Save"
         Me.btnSave.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.btnSave.UseVisualStyleBackColor = False
@@ -145,11 +183,18 @@ Partial Class FrmTaskTypeMaster
         Me.btnEdit.BackColor = System.Drawing.SystemColors.Control
         Me.btnEdit.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnEdit.ForeColor = System.Drawing.Color.Maroon
+<<<<<<< HEAD
         Me.btnEdit.Location = New System.Drawing.Point(93, 625)
         Me.btnEdit.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnEdit.Name = "btnEdit"
         Me.btnEdit.Size = New System.Drawing.Size(96, 36)
         Me.btnEdit.TabIndex = 1
+=======
+        Me.btnEdit.Location = New System.Drawing.Point(70, 508)
+        Me.btnEdit.Name = "btnEdit"
+        Me.btnEdit.Size = New System.Drawing.Size(72, 29)
+        Me.btnEdit.TabIndex = 270
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
         Me.btnEdit.Text = "&Modify"
         Me.btnEdit.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.btnEdit.UseVisualStyleBackColor = False
@@ -160,11 +205,18 @@ Partial Class FrmTaskTypeMaster
         Me.btnAdd.BackColor = System.Drawing.SystemColors.Control
         Me.btnAdd.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnAdd.ForeColor = System.Drawing.Color.Blue
+<<<<<<< HEAD
         Me.btnAdd.Location = New System.Drawing.Point(11, 625)
         Me.btnAdd.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnAdd.Name = "btnAdd"
         Me.btnAdd.Size = New System.Drawing.Size(80, 36)
         Me.btnAdd.TabIndex = 0
+=======
+        Me.btnAdd.Location = New System.Drawing.Point(8, 508)
+        Me.btnAdd.Name = "btnAdd"
+        Me.btnAdd.Size = New System.Drawing.Size(60, 29)
+        Me.btnAdd.TabIndex = 269
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
         Me.btnAdd.Text = "&New"
         Me.btnAdd.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.btnAdd.UseVisualStyleBackColor = False
@@ -178,11 +230,17 @@ Partial Class FrmTaskTypeMaster
         Me.gbTask.Controls.Add(Me.Label2)
         Me.gbTask.Controls.Add(Me.lblTaskType)
         Me.gbTask.Font = New System.Drawing.Font("Calibri", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+<<<<<<< HEAD
         Me.gbTask.Location = New System.Drawing.Point(11, 6)
         Me.gbTask.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.gbTask.Name = "gbTask"
         Me.gbTask.Padding = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.gbTask.Size = New System.Drawing.Size(1201, 214)
+=======
+        Me.gbTask.Location = New System.Drawing.Point(8, 5)
+        Me.gbTask.Name = "gbTask"
+        Me.gbTask.Size = New System.Drawing.Size(901, 174)
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
         Me.gbTask.TabIndex = 275
         Me.gbTask.TabStop = False
         Me.gbTask.Text = "Task Entry"
@@ -190,6 +248,7 @@ Partial Class FrmTaskTypeMaster
         'ColorPickEdit1
         '
         Me.ColorPickEdit1.EditValue = System.Drawing.Color.Empty
+<<<<<<< HEAD
         Me.ColorPickEdit1.Location = New System.Drawing.Point(153, 171)
         Me.ColorPickEdit1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.ColorPickEdit1.Name = "ColorPickEdit1"
@@ -215,34 +274,76 @@ Partial Class FrmTaskTypeMaster
         Me.txtTaskDetail.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
         Me.txtTaskDetail.Size = New System.Drawing.Size(309, 67)
         Me.txtTaskDetail.TabIndex = 1
+=======
+        Me.ColorPickEdit1.Location = New System.Drawing.Point(115, 139)
+        Me.ColorPickEdit1.Name = "ColorPickEdit1"
+        Me.ColorPickEdit1.Properties.AutomaticColor = System.Drawing.Color.Black
+        Me.ColorPickEdit1.Properties.Buttons.AddRange(New DevExpress.XtraEditors.Controls.EditorButton() {New DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)})
+        Me.ColorPickEdit1.Size = New System.Drawing.Size(159, 20)
+        Me.ColorPickEdit1.TabIndex = 289
+        '
+        'txtTaskType
+        '
+        Me.txtTaskType.Location = New System.Drawing.Point(115, 30)
+        Me.txtTaskType.Name = "txtTaskType"
+        Me.txtTaskType.Size = New System.Drawing.Size(159, 26)
+        Me.txtTaskType.TabIndex = 288
+        '
+        'txtTaskDetail
+        '
+        Me.txtTaskDetail.Location = New System.Drawing.Point(115, 68)
+        Me.txtTaskDetail.Multiline = True
+        Me.txtTaskDetail.Name = "txtTaskDetail"
+        Me.txtTaskDetail.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
+        Me.txtTaskDetail.Size = New System.Drawing.Size(233, 55)
+        Me.txtTaskDetail.TabIndex = 287
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
         '
         'lblTaskDetail
         '
         Me.lblTaskDetail.AutoSize = True
+<<<<<<< HEAD
         Me.lblTaskDetail.Location = New System.Drawing.Point(24, 105)
         Me.lblTaskDetail.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblTaskDetail.Name = "lblTaskDetail"
         Me.lblTaskDetail.Size = New System.Drawing.Size(92, 23)
+=======
+        Me.lblTaskDetail.Location = New System.Drawing.Point(18, 85)
+        Me.lblTaskDetail.Name = "lblTaskDetail"
+        Me.lblTaskDetail.Size = New System.Drawing.Size(74, 18)
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
         Me.lblTaskDetail.TabIndex = 286
         Me.lblTaskDetail.Text = "Task Detail"
         '
         'Label2
         '
         Me.Label2.AutoSize = True
+<<<<<<< HEAD
         Me.Label2.Location = New System.Drawing.Point(27, 172)
         Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(100, 23)
+=======
+        Me.Label2.Location = New System.Drawing.Point(20, 140)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(82, 18)
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
         Me.Label2.TabIndex = 285
         Me.Label2.Text = "Select Color"
         '
         'lblTaskType
         '
         Me.lblTaskType.AutoSize = True
+<<<<<<< HEAD
         Me.lblTaskType.Location = New System.Drawing.Point(27, 41)
         Me.lblTaskType.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblTaskType.Name = "lblTaskType"
         Me.lblTaskType.Size = New System.Drawing.Size(84, 23)
+=======
+        Me.lblTaskType.Location = New System.Drawing.Point(20, 33)
+        Me.lblTaskType.Name = "lblTaskType"
+        Me.lblTaskType.Size = New System.Drawing.Size(66, 18)
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
         Me.lblTaskType.TabIndex = 282
         Me.lblTaskType.Text = "Task Type"
         '
@@ -251,11 +352,18 @@ Partial Class FrmTaskTypeMaster
         Me.btnRefresh.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.btnRefresh.BackColor = System.Drawing.SystemColors.Control
         Me.btnRefresh.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+<<<<<<< HEAD
         Me.btnRefresh.Location = New System.Drawing.Point(1107, 625)
         Me.btnRefresh.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.btnRefresh.Name = "btnRefresh"
         Me.btnRefresh.Size = New System.Drawing.Size(105, 36)
         Me.btnRefresh.TabIndex = 7
+=======
+        Me.btnRefresh.Location = New System.Drawing.Point(830, 508)
+        Me.btnRefresh.Name = "btnRefresh"
+        Me.btnRefresh.Size = New System.Drawing.Size(79, 29)
+        Me.btnRefresh.TabIndex = 276
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
         Me.btnRefresh.Text = "Re&fresh"
         Me.btnRefresh.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.btnRefresh.UseVisualStyleBackColor = False
@@ -264,12 +372,20 @@ Partial Class FrmTaskTypeMaster
         '
         Me.txt_TaskType.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.txt_TaskType.Font = New System.Drawing.Font("Calibri", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+<<<<<<< HEAD
         Me.txt_TaskType.Location = New System.Drawing.Point(716, 629)
         Me.txt_TaskType.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
         Me.txt_TaskType.MaxLength = 50
         Me.txt_TaskType.Name = "txt_TaskType"
         Me.txt_TaskType.Size = New System.Drawing.Size(180, 30)
         Me.txt_TaskType.TabIndex = 6
+=======
+        Me.txt_TaskType.Location = New System.Drawing.Point(537, 511)
+        Me.txt_TaskType.MaxLength = 50
+        Me.txt_TaskType.Name = "txt_TaskType"
+        Me.txt_TaskType.Size = New System.Drawing.Size(136, 26)
+        Me.txt_TaskType.TabIndex = 277
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
         '
         'lblF_LedgerName
         '
@@ -277,18 +393,30 @@ Partial Class FrmTaskTypeMaster
         Me.lblF_LedgerName.AutoSize = True
         Me.lblF_LedgerName.Font = New System.Drawing.Font("Calibri", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblF_LedgerName.ForeColor = System.Drawing.Color.Black
+<<<<<<< HEAD
         Me.lblF_LedgerName.Location = New System.Drawing.Point(608, 634)
         Me.lblF_LedgerName.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblF_LedgerName.Name = "lblF_LedgerName"
         Me.lblF_LedgerName.Size = New System.Drawing.Size(84, 23)
+=======
+        Me.lblF_LedgerName.Location = New System.Drawing.Point(456, 515)
+        Me.lblF_LedgerName.Name = "lblF_LedgerName"
+        Me.lblF_LedgerName.Size = New System.Drawing.Size(66, 18)
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
         Me.lblF_LedgerName.TabIndex = 278
         Me.lblF_LedgerName.Text = "Task Type"
         '
         'FrmTaskTypeMaster
         '
+<<<<<<< HEAD
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1223, 676)
+=======
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(917, 549)
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
         Me.Controls.Add(Me.txt_TaskType)
         Me.Controls.Add(Me.lblF_LedgerName)
         Me.Controls.Add(Me.btnRefresh)
@@ -300,7 +428,10 @@ Partial Class FrmTaskTypeMaster
         Me.Controls.Add(Me.btnAdd)
         Me.Controls.Add(Me.gcData)
         Me.Controls.Add(Me.gbTask)
+<<<<<<< HEAD
         Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+=======
+>>>>>>> 3da4784695bdc8fbe3ff0fe1f2de998315c6bc10
         Me.Name = "FrmTaskTypeMaster"
         Me.Text = "Task Master"
         CType(Me.gcData, System.ComponentModel.ISupportInitialize).EndInit()
