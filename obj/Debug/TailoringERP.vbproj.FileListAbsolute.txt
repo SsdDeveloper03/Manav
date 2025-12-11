@@ -1,0 +1,1270 @@
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.vbprojAssemblyReference.cache
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmLogin.resources
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.Resources.resources
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.vbproj.GenerateResource.cache
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.vbproj.CoreCompileInputs.cache
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmMDIMain.resources
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmCustomerMaster_Tailoring.resources
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.WaitForm1.resources
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.exe.licenses
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmReportViewer_Stimul.resources
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmRptViewer_CR.resources
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmRptViewer_RDLC.resources
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmHelpMiscList.resources
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\TailoringERP.exe.config
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\TailoringERP.exe
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\TailoringERP.pdb
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\TailoringERP.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\AForge.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\AForge.Video.DirectShow.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\AForge.Video.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\AxShockwaveFlashObjects.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Calendar.NET.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\CrystalDecisions.Shared.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\CrystalDecisions.Web.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Charts.Designer.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.CodeParser.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Data.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.DataAccess.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Images.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Mvvm.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Office.v17.1.Core.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.SpellChecker.v17.1.Core.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Charts.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Core.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Docking.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.DocumentViewer.v17.1.Core.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Grid.v17.1.Core.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Grid.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Layout.v17.1.Core.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.LayoutControl.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Printing.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.PropertyGrid.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Ribbon.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Scheduler.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpo.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGauges.v17.1.Win.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraReports.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Extensions.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraSpellChecker.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Emgu.CV.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Emgu.CV.GPU.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Emgu.CV.ML.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Emgu.CV.UI.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Emgu.Util.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Guna.UI2.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Ionic.Zip.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Newtonsoft.Json.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\notificationDll.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\RestSharp.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Base.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Controls.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Controls.Win.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Design.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Editor.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Check.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Design.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Helper.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Win.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\AForge.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\AForge.Video.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\AForge.Video.DirectShow.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Data.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.DataAccess.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Mvvm.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Office.v17.1.Core.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.SpellChecker.v17.1.Core.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Core.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Docking.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.DocumentViewer.v17.1.Core.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Layout.v17.1.Core.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Printing.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Ribbon.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpo.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGauges.v17.1.Win.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraReports.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Extensions.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraSpellChecker.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\Newtonsoft.Json.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Charts.Designer.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Charts.Designer.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Charts.Designer.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Charts.Designer.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Charts.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Charts.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Charts.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Charts.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Core.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Core.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Core.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Core.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Docking.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Docking.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Docking.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Docking.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Printing.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Printing.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Printing.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Printing.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.PropertyGrid.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.PropertyGrid.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.PropertyGrid.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.PropertyGrid.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Scheduler.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Scheduler.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Scheduler.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Scheduler.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraSpellChecker.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraSpellChecker.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraSpellChecker.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraSpellChecker.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.vbproj.CopyComplete
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.exe
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.xml
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.pdb
+E:\SD2021\Backup\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmSalesItemMaster.resources
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.vbprojAssemblyReference.cache
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.exe.config
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmLogin.resources
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmMDIMain.resources
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmReportViewer_Stimul.resources
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmRptViewer_CR.resources
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmRptViewer_RDLC.resources
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmHelpMiscList.resources
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmCustomerMaster_Tailoring.resources
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmSalesItemMaster.resources
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.Resources.resources
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.WaitForm1.resources
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.vbproj.GenerateResource.cache
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.exe.licenses
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.vbproj.CoreCompileInputs.cache
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.exe
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.pdb
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\TailoringERP.exe.config
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\TailoringERP.exe
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\TailoringERP.pdb
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\TailoringERP.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Charts.Designer.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.CodeParser.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Data.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.DataAccess.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Images.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Mvvm.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Office.v17.1.Core.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.SpellChecker.v17.1.Core.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Utils.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Charts.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Core.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Docking.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.DocumentViewer.v17.1.Core.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Grid.v17.1.Core.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Grid.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Layout.v17.1.Core.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.LayoutControl.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Printing.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.PropertyGrid.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Ribbon.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Scheduler.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpo.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraBars.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGauges.v17.1.Win.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraReports.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Extensions.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraSpellChecker.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Newtonsoft.Json.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Base.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Controls.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Controls.Win.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Design.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Editor.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Check.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Design.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Helper.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Win.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\AForge.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\AForge.Video.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\AForge.Video.DirectShow.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Data.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.DataAccess.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Mvvm.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Office.v17.1.Core.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.SpellChecker.v17.1.Core.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Utils.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Core.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Docking.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.DocumentViewer.v17.1.Core.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Layout.v17.1.Core.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Printing.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Ribbon.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpo.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraBars.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGauges.v17.1.Win.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraReports.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Extensions.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraSpellChecker.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Base.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Controls.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Controls.Win.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Design.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Editor.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Check.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Design.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Helper.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Win.xml
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Charts.Designer.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Charts.Designer.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Charts.Designer.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Charts.Designer.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Charts.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Charts.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Charts.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Charts.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Core.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Core.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Core.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Core.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Docking.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Docking.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Docking.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Docking.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Printing.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Printing.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Printing.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Printing.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.PropertyGrid.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.PropertyGrid.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.PropertyGrid.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.PropertyGrid.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Scheduler.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Scheduler.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Scheduler.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Scheduler.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraSpellChecker.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraSpellChecker.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraSpellChecker.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraSpellChecker.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.vbproj.CopyComplete
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\TailoringERP.exe.config
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\TailoringERP.exe
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\TailoringERP.pdb
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\TailoringERP.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\AxShockwaveFlashObjects.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\CrystalDecisions.ReportSource.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\CrystalDecisions.Shared.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\CrystalDecisions.Web.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Charts.Designer.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.CodeParser.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Data.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.DataAccess.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Images.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Mvvm.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Office.v17.1.Core.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.SpellChecker.v17.1.Core.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Utils.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Charts.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Core.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Docking.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.DocumentViewer.v17.1.Core.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Grid.v17.1.Core.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Grid.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Layout.v17.1.Core.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.LayoutControl.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Printing.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.PropertyGrid.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Ribbon.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Scheduler.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpo.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraBars.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGauges.v17.1.Win.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraReports.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Extensions.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraSpellChecker.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Microsoft.ReportViewer.Common.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Newtonsoft.Json.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Base.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Controls.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Controls.Win.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Design.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Editor.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Check.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Design.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Helper.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Win.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Microsoft.SqlServer.Types.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Data.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.DataAccess.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Mvvm.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Office.v17.1.Core.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.SpellChecker.v17.1.Core.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Utils.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Core.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Docking.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.DocumentViewer.v17.1.Core.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Layout.v17.1.Core.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Printing.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Ribbon.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpo.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraBars.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGauges.v17.1.Win.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraReports.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Extensions.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraSpellChecker.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Base.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Controls.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Controls.Win.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Design.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Editor.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Check.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Design.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Helper.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Win.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Charts.Designer.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Charts.Designer.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Charts.Designer.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Charts.Designer.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Charts.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Charts.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Charts.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Charts.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Core.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Core.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Core.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Core.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Docking.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Docking.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Docking.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Docking.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Printing.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Printing.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Printing.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Printing.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.PropertyGrid.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.PropertyGrid.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.PropertyGrid.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.PropertyGrid.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Scheduler.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Scheduler.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Scheduler.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Scheduler.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraSpellChecker.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraSpellChecker.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraSpellChecker.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraSpellChecker.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.vbprojAssemblyReference.cache
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.exe.config
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmLogin.resources
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmMDIMain.resources
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmReportViewer_Stimul.resources
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmRptViewer_CR.resources
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmRptViewer_RDLC.resources
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmHelpMiscList.resources
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmCustomerMaster_Tailoring.resources
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmSalesItemMaster.resources
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.Resources.resources
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.WaitForm1.resources
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.vbproj.GenerateResource.cache
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.vbproj.CoreCompileInputs.cache
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.vbproj.CopyComplete
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.exe
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.xml
+S:\Sunrise Developer ID Pass\TailoringERP\TailoringERP\obj\Debug\TailoringERP.pdb
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+\\Ssd\SSD\Sunrise Developer ID Pass\TailoringERP\TailoringERP\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\TailoringERP\TailoringERP\bin\Debug\TailoringERP.exe.config
+D:\TailoringERP\TailoringERP\bin\Debug\TailoringERP.exe
+D:\TailoringERP\TailoringERP\bin\Debug\TailoringERP.pdb
+D:\TailoringERP\TailoringERP\bin\Debug\TailoringERP.xml
+D:\TailoringERP\TailoringERP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TailoringERP\TailoringERP\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Charts.Designer.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Data.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Mvvm.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.SpellChecker.v17.1.Core.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Charts.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Core.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Docking.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.DocumentViewer.v17.1.Core.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Grid.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Grid.v17.1.Core.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Layout.v17.1.Core.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.LayoutControl.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Printing.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.PropertyGrid.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Ribbon.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpf.Scheduler.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGauges.v17.1.Win.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Extensions.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraScheduler.v17.1.Reporting.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraSpellChecker.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\TailoringERP\TailoringERP\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\TailoringERP\TailoringERP\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\TailoringERP\TailoringERP\bin\Debug\Newtonsoft.Json.xml
+D:\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Base.xml
+D:\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Controls.xml
+D:\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Controls.Win.xml
+D:\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Design.xml
+D:\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Editor.xml
+D:\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.xml
+D:\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Check.xml
+D:\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Design.xml
+D:\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Helper.xml
+D:\TailoringERP\TailoringERP\bin\Debug\Stimulsoft.Report.Win.xml
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Charts.Designer.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Charts.Designer.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Charts.Designer.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Charts.Designer.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Charts.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Charts.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Charts.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Charts.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Core.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Core.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Core.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Core.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Docking.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Docking.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Docking.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Docking.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Grid.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Printing.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Printing.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Printing.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Printing.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.PropertyGrid.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.PropertyGrid.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.PropertyGrid.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.PropertyGrid.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Ribbon.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpf.Scheduler.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpf.Scheduler.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpf.Scheduler.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpf.Scheduler.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Extensions.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Reporting.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraSpellChecker.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraSpellChecker.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraSpellChecker.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraSpellChecker.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.vbprojAssemblyReference.cache
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.exe.config
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmLogin.resources
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmMDIMain.resources
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmReportViewer_Stimul.resources
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmRptViewer_CR.resources
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmRptViewer_RDLC.resources
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmHelpMiscList.resources
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmCustomerMaster_Tailoring.resources
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.FrmSalesItemMaster.resources
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.Resources.resources
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.WaitForm1.resources
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.vbproj.GenerateResource.cache
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.exe.licenses
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.vbproj.CoreCompileInputs.cache
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.vbproj.CopyComplete
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.exe
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.xml
+D:\TailoringERP\TailoringERP\obj\Debug\TailoringERP.pdb
