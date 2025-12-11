@@ -8,9 +8,7 @@ Imports System.Text
 Imports TailoringERP.TailoringERP.DB
 
 Public Class FrmLogin
-    ''' <summary>
-    ''' 
-    ''' </summary>
+    '11/12/2025
 #Region "Comments"
     'Name:Tailoring
     'Created By:Bhavesh
